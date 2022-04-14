@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f57d3fb0340987c489da38c084f48111, type: 3}
+  m_Name: Data_Ability_Blademaster_Slash
+  m_EditorClassIdentifier: 
+  abilityName: Slash
+  cooldownRounds: 2
+  range: 2
+  APCost: 2
+  valueModifier: 1
+  value: 3
+  accuracyOffsetModifier: 0
+  accuracyOffset: 0
+  valueOffsetModifier: 0
+  valueOffset: 0
+  applyDebuffOnlyWhenDamageDealt: 1
+  isPenetrate: 0
+  bleeding: 1
+  burn: 0
+  shock: 0
+  silence: 0

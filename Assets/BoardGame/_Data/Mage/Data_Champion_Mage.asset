@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e80b2d0837e4af4da717d0ba6bf9a8e, type: 3}
+  m_Name: Data_Champion_Mage
+  m_EditorClassIdentifier: 
+  championName: Mage
+  totalArmor: 2
+  totalHealth: 12
+  totalAP: 3
+  baseAccuracy: 150000001300000012000000100000000e0000000c000000
+  championPortrait: {fileID: 21300000, guid: de5773f30037805478d6f6f40bdadaef, type: 3}
+  championToken: {fileID: 5619258906214187582, guid: 0e4eaa4e8acf0c146af98b3f1f180fb7, type: 3}

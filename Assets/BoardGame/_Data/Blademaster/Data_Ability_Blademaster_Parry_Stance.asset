@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d4884cda94337243819a2fe98ff031b, type: 3}
+  m_Name: Data_Ability_Blademaster_Parry_Stance
+  m_EditorClassIdentifier: 
+  abilityName: Parry Stance
+  cooldownRounds: 2
+  range: 1
+  APCost: 3
+  valueModifier: 0
+  value: 0
+  accuracyOffsetModifier: 0
+  accuracyOffset: 0
+  valueOffsetModifier: 0
+  valueOffset: 0
